@@ -120,8 +120,4 @@ This script is designed for **SharePoint Online Folder Count**, **PnP PowerShell
 Then this script is the perfect solution!
 
 ---
-## **Author**
-Developed by: Jatin Rathod
-For support, contact: jatinrathod2301@gmail.com
-
 
